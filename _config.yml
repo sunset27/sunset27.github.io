@@ -62,12 +62,12 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: 7394784c13b3334d4832                            #生成的clientID
-  clientSecret: 38a20702d7d5a17fcb272774ca61ab30e3ad048c    #生成的clientSecret
+  clientID: 5ca8d64bc0021345ce58                            #生成的clientID
+  clientSecret: 1d31a6127910d7c0b01ef769a37b34cf07c024fd    #生成的clientSecret
   repo: sunset27.github.io    #仓库名称
   owner: sunset27    #github用户名
   admin: sunset27
-  distractionFreeMode: true #是否启用类似FB的阴影遮罩
+  #distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
 # 统计
